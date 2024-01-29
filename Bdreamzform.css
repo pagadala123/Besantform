@@ -1,0 +1,63 @@
+#bdreamz{
+    border: 1px solid black;
+    width: 1000px;
+    height: 1700px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 1px
+
+    
+}
+h1{
+    text-align: center;
+    margin-top: auto;
+    
+}
+.reg{
+    text-align: center;
+}
+#photo{
+    border: 1px solid black;
+    width:99px;
+    height: 100px;
+    position: relative;
+    left: 88%;
+    bottom: 75px;
+    
+
+}
+table{
+    margin-left:20% ;
+    margin-top: 40px;
+    
+}
+.br{
+    padding-left: 180px;
+    position: relative;
+    top: 40px;
+    
+}
+.hap{
+    margin-left: 45px;
+}
+
+.list{
+    padding-left: 40px;
+ }
+ #sign{
+/* text-align: right; */
+position: relative;
+top: 25px;
+left:80%;
+ }
+input{
+    border: none;
+    border-bottom: 1px solid black ;
+    width: 50%;
+    
+}
+.bd{
+    position: relative;
+    top: 100px;
+}
+ 
